@@ -1,0 +1,36 @@
+
+body{
+  width:1440px;
+  background-color:hsl(233, 47%, 7%);
+  position: relative;
+}
+.main-1
+{
+  background-color:hsl(244, 38%, 16%);
+  display:inline-block;
+  position: absolute;
+  width:600px;
+  height:500px;
+  left:100px;
+  top:90px;
+}
+.main-2
+{
+  display:inline-block;
+  position: absolute;
+  width:600px;
+  height:500px;
+  left:700px;
+  top:90px;
+}
+.main-3
+{
+  display:inline-block;
+  background-color:hsl(288deg 63% 51%);
+  opacity:0.5;
+  position: absolute;
+  width:600px;
+  height:500px;
+  left:700px;
+  top:90px;
+}
